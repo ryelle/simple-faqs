@@ -20,6 +20,7 @@ const BlockSVG = (
 );
 
 registerBlockType( 'ryelle/simple-faqs', {
+	// Test
 	title: __( 'Simple FAQs', 'ryelle-simple-faqs' ),
 	description: __( '', 'ryelle-simple-faqs' ),
 	category: 'widgets',
