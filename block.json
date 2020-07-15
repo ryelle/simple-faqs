@@ -1,0 +1,14 @@
+{
+	"name": "ryelle/simple-faqs",
+	"title": "Simple Faqs",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "",
+	"textdomain": "ryelle-simple-block",
+	"supports": {
+		"html": true
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
