@@ -7,7 +7,7 @@ import { __ } from '@wordpress/i18n';
  * Internal dependencies
  */
 // CSS
-import './style.scss';
+import './editor.scss';
 
 export default function Edit( { attributes, className, setAttributes } ) {
 	return (
